@@ -1,4 +1,4 @@
 -- the script will display all Databases
 -- this queiry will display all databases
-SHOWDATABASES;
+SHOW DATABASES;
 
